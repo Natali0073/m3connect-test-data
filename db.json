@@ -8,6 +8,24 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+	"menuList": [
+          {
+            "title": "Breakfast",
+            "value": "breakfast"
+          },
+          {
+            "title": "Lunch",
+            "value": "lunch"
+          },
+          {
+            "title": "Dinner",
+            "value": "dinner"
+          },
+          {
+            "title": "Bar",
+            "value": "bar"
+          }
+        ],
   "profile": {
     "name": "Mr. Smith",
 	  "lang": "EN",
