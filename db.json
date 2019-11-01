@@ -1,6 +1,6 @@
 {
   "menuList": [
-          {
+	  {
             "title": "Breakfast",
             "value": "breakfast"
           },
@@ -17,46 +17,46 @@
             "value": "bar"
           }
         ],
-	"restaurantsInfo": [
+"restaurantsInfo": [
           {
-            "title": "Breakfast",
-  "restaurant": "Val Marina Restaurant",
-  "phoneNumber": "+385 21 75 200",
-  "website": "www.suncanihvar.com",
-  "cuisine": "Cuisine: American, British, French, Mediterranean, Seafood, Steakhouse, Local, Asian, International, European, Croatian, Grill/BBQ",
-  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n10:00 a.m - 11:30 p.m",
-  "image": "breakfast.png"
+		  "title": "Breakfast",
+		  "restaurant": "Val Marina Restaurant",
+		  "phoneNumber": "+385 21 75 200",
+		  "website": "www.suncanihvar.com",
+		  "cuisine": "Cuisine: American, British, French, Mediterranean, Seafood, Steakhouse, Local, Asian, International, European, Croatian, Grill/BBQ",
+		  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n10:00 a.m - 11:30 p.m",
+		  "image": "breakfast.png"
           },
           {
-           "title": "Lunch",
-  "restaurant": "Top Bar Restaurant",
-  "phoneNumber": "+385 45 45 670",
-  "website": "www.topbar.com",
-  "cuisine": "Cuisine: American, British, French, Mediterranean, Seafood, Steakhouse",
-  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n14:00 p.m - 17:00 p.m",
-  "image": "restaurant.png"
+		  "title": "Lunch",
+		  "restaurant": "Top Bar Restaurant",
+		  "phoneNumber": "+385 45 45 670",
+		  "website": "www.topbar.com",
+		  "cuisine": "Cuisine: American, British, French, Mediterranean, Seafood, Steakhouse",
+		  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n14:00 p.m - 17:00 p.m",
+		  "image": "restaurant.png"
           },
           {
-            "title": "Dinner",
-  "restaurant": "Sensori Spa Restaurant",
-  "phoneNumber": "+385 89 00 627",
-  "website": "www.sensorispa.com",
-  "cuisine": "Cuisine: Seafood, Steakhouse, Local, Asian, International, European, Croatian, Grill/BBQ",
-  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n14:00 p.m - 17:00 p.m",
-  "image": "dinner.png"
+		  "title": "Dinner",
+		  "restaurant": "Sensori Spa Restaurant",
+		  "phoneNumber": "+385 89 00 627",
+		  "website": "www.sensorispa.com",
+		  "cuisine": "Cuisine: Seafood, Steakhouse, Local, Asian, International, European, Croatian, Grill/BBQ",
+		  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n14:00 p.m - 17:00 p.m",
+		  "image": "dinner.png"
           },
           {
-            "title": "Bar",
-  "restaurant": "Lobby Bar",
-  "phoneNumber": "+385 12 45 920",
-  "website": "www.lobbybar.com",
-  "cuisine": "Cuisine: International, European, Croatian, Grill/BBQ",
-  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n12:00 a.m - 22:00 p.m",
-  "image": "bar.png"
+		  "title": "Bar",
+		  "restaurant": "Lobby Bar",
+		  "phoneNumber": "+385 12 45 920",
+		  "website": "www.lobbybar.com",
+		  "cuisine": "Cuisine: International, European, Croatian, Grill/BBQ",
+		  "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n12:00 a.m - 22:00 p.m",
+		  "image": "bar.png"
           }
         ],
-  "profile": {
-    "name": "Mr. Smith",
+"profile": {
+	  "name": "Mr. Smith",
 	  "lang": "EN",
 	  "weather": "24"
   }
