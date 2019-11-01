@@ -34,7 +34,7 @@
   "website": "www.suncanihvar.com",
   "cuisine": "Cuisine: American, British, French, Mediterranean, Seafood, Steakhouse, Local, Asian, International, European, Croatian, Grill/BBQ",
   "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n10:00 a.m - 11:30 p.m",
-  "image": "/img/f792f44.png"
+  "image": "breakfast.png"
           },
           {
            "title": "Lunch",
@@ -43,7 +43,7 @@
   "website": "www.topbar.com",
   "cuisine": "Cuisine: American, British, French, Mediterranean, Seafood, Steakhouse",
   "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n14:00 p.m - 17:00 p.m",
-  "image": "/img/restaurant.png"
+  "image": "restaurant.png"
           },
           {
             "title": "Dinner",
@@ -52,7 +52,7 @@
   "website": "www.sensorispa.com",
   "cuisine": "Cuisine: Seafood, Steakhouse, Local, Asian, International, European, Croatian, Grill/BBQ",
   "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n14:00 p.m - 17:00 p.m",
-  "image": "/img/dinner.png"
+  "image": "dinner.png"
           },
           {
             "title": "Bar",
@@ -61,7 +61,7 @@
   "website": "www.lobbybar.com",
   "cuisine": "Cuisine: International, European, Croatian, Grill/BBQ",
   "additionalInfo": "Opening hours:\n\nDaily rom Monday to Sunday\n\n12:00 a.m - 22:00 p.m",
-  "image": "/img/bar.png"
+  "image": "bar.png"
           }
         ],
   "profile": {
